@@ -571,8 +571,11 @@
         <mxCell id="Tqsd4zmFbf8YSYMbSBRR-28" value="can总线的socket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="680" y="2960" width="70" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="Tqsd4zmFbf8YSYMbSBRR-29" value="OPCUA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="Tqsd4zmFbf8YSYMbSBRR-29" value="OPCUA&lt;div&gt;服务端&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="680" y="3180" width="70" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqsd4zmFbf8YSYMbSBRR-30" value="数据库&lt;div&gt;线程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="500" y="3163" width="70" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
