@@ -566,10 +566,13 @@
           <mxGeometry x="430" y="2960" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tqsd4zmFbf8YSYMbSBRR-27" value="socket服务端线程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="340" y="3007" width="70" height="203" as="geometry" />
+          <mxGeometry x="340" y="2960" width="70" height="203" as="geometry" />
         </mxCell>
         <mxCell id="Tqsd4zmFbf8YSYMbSBRR-28" value="can总线的socket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="670" y="3007" width="70" height="203" as="geometry" />
+          <mxGeometry x="680" y="2960" width="70" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="Tqsd4zmFbf8YSYMbSBRR-29" value="OPCUA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="680" y="3180" width="70" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
