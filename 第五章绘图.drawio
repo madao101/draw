@@ -1,11 +1,512 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="HSNrIdLrmf_gZzXV-6NT">
-    <mxGraphModel dx="1220" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="488" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vEpjXGQyXGKG9upAJMsb-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="0p-viZYFRMLe7LPgVE24-217" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="1070" width="705" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="270" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-9" value="&#39;1&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-12" value="&lt;font&gt;12345&lt;/font&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#f9f7ed;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="180" y="221" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-13" value="&#39;2&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-14" value="&#39;3&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-15" value="&#39;4&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-17" value="&#39;5&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.86" y="276" as="sourcePoint" />
+            <mxPoint x="239.86" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-38" value="按位拆分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0p-viZYFRMLe7LPgVE24-18">
+          <mxGeometry x="-0.261" y="-1" relative="1" as="geometry">
+            <mxPoint x="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="540" y="370.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-27" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;发送方&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="179" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-28" value="&lt;font&gt;字节流&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="270" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-30" value="&#39;1&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-31" value="&lt;font&gt;12345&lt;/font&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#f9f7ed;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="620" y="221" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-32" value="&#39;2&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-33" value="&#39;3&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-34" value="&#39;4&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="710" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-35" value="&#39;5&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="760" y="330" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.86" y="324" as="sourcePoint" />
+            <mxPoint x="679.86" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-40" value="按位重组" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0p-viZYFRMLe7LPgVE24-36">
+          <mxGeometry x="0.2959" y="-2" relative="1" as="geometry">
+            <mxPoint x="-42" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-37" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;接收方&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="179" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="470" width="270" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-42" value="0X" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-43" value="&lt;font&gt;12345&lt;/font&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#f9f7ed;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="180" y="521" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-44" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-45" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-46" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-47" value="9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.86" y="575" as="sourcePoint" />
+            <mxPoint x="239.86" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-49" value="按字节拆分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0p-viZYFRMLe7LPgVE24-48">
+          <mxGeometry x="-0.261" y="-1" relative="1" as="geometry">
+            <mxPoint x="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-64" value="指针寻址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0p-viZYFRMLe7LPgVE24-48">
+          <mxGeometry x="-0.261" y="-1" relative="1" as="geometry">
+            <mxPoint x="-42" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="670" as="sourcePoint" />
+            <mxPoint x="540" y="670.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-51" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;发送方&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="479" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-52" value="&lt;font&gt;字节流&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="470" width="270" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-54" value="0X" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-55" value="&lt;font&gt;12345&lt;/font&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#f9f7ed;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="620" y="521" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-56" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-57" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-58" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="710" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-59" value="9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="760" y="630" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.86" y="623" as="sourcePoint" />
+            <mxPoint x="679.86" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-61" value="指针解引用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0p-viZYFRMLe7LPgVE24-60">
+          <mxGeometry x="0.2959" y="-2" relative="1" as="geometry">
+            <mxPoint x="-51" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-63" value="按字节组合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="0p-viZYFRMLe7LPgVE24-60">
+          <mxGeometry x="0.2959" y="-2" relative="1" as="geometry">
+            <mxPoint x="48" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-62" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;接收方&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="479" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="100" y="890" width="700" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-74" value="FDCAN1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="230" y="930" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-80" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;i.MX8&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1080" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-83" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="1110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-84" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;MCU1&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-86" value="UART1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="119" y="1130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-89" value="UART2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="169" y="1130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-90" value="UART3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-91" value="UART4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-92" value="PWM&lt;div&gt;ADC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-94" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143.71" y="1190" as="sourcePoint" />
+            <mxPoint x="143.71" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-95" value="&lt;span&gt;注射泵1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="119" y="1251" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-102" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="193.71" y="1190" as="sourcePoint" />
+            <mxPoint x="193.71" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-103" value="&lt;span&gt;注射泵1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="169" y="1251" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-109" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243.71" y="1190" as="sourcePoint" />
+            <mxPoint x="243.71" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-110" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293.71000000000004" y="1190" as="sourcePoint" />
+            <mxPoint x="293.71000000000004" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-111" value="&lt;span&gt;切换阀1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1251" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-113" value="&lt;span&gt;切换阀1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1251" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-115" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="343.71000000000004" y="1190" as="sourcePoint" />
+            <mxPoint x="343.71000000000004" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-116" value="&lt;span&gt;温控1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1251" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-118" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1080" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-120" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;MCUn&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-128" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="114" y="1269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-131" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="164" y="1269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-135" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-137" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264" y="1269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-140" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-143" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=6.388888888888888;endSize=4.019444444444445;endWidth=19.6141975308642;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="104" y="1030" as="sourcePoint" />
+            <mxPoint x="802.6667131696429" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-144" value="&lt;span&gt;注射泵n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="119" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-145" value="&lt;span&gt;注射泵n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="169" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-146" value="&lt;span&gt;切换阀n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-147" value="&lt;span&gt;切换阀n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-148" value="&lt;span&gt;温控4&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-176" value="USB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-177" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393.71000000000004" y="1190" as="sourcePoint" />
+            <mxPoint x="393.71000000000004" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-178" value="&lt;span&gt;压力传感器1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1251" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-179" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-181" value="&lt;span&gt;压力传感器n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-183" value="UART1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1128" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-184" value="UART2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="539" y="1128" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-185" value="UART3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="589" y="1128" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-186" value="UART4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1128" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-187" value="PWM&lt;div&gt;ADC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="689" y="1128" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-188" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513.71" y="1188" as="sourcePoint" />
+            <mxPoint x="513.71" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-189" value="&lt;span&gt;注射泵1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1249" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-190" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="563.71" y="1188" as="sourcePoint" />
+            <mxPoint x="563.71" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-191" value="&lt;span&gt;注射泵1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="539" y="1249" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-192" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="613.71" y="1188" as="sourcePoint" />
+            <mxPoint x="613.71" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-193" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663.71" y="1188" as="sourcePoint" />
+            <mxPoint x="663.71" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-194" value="&lt;span&gt;切换阀1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="589" y="1249" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-195" value="&lt;span&gt;切换阀1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1249" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-196" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="713.71" y="1188" as="sourcePoint" />
+            <mxPoint x="713.71" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-197" value="&lt;span&gt;温控1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="689" y="1249" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-198" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="484" y="1267" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-199" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="1267" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-200" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="1267" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-201" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="634" y="1267" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-202" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="684" y="1267" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-203" value="&lt;span&gt;注射泵n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-204" value="&lt;span&gt;注射泵n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="539" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-205" value="&lt;span&gt;切换阀n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="589" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-206" value="&lt;span&gt;切换阀n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-207" value="&lt;span&gt;温控4&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="689" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-208" value="USB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="739" y="1128" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-209" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="763.71" y="1188" as="sourcePoint" />
+            <mxPoint x="763.71" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-210" value="&lt;span&gt;压力传感器1&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="739" y="1249" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-211" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="734" y="1267" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-212" value="&lt;span&gt;压力传感器n&lt;/span&gt;" style="text;strokeColor=#36393d;align=center;fillColor=#ffcc99;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="739" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-213" value="FDCAN2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="409" y="930" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-214" value="ETH2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="599" y="930" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-219" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=5.961538461538462;endSize=2.4370967741935483;startWidth=14.418081918081919;startSize=3.085064935064935;endWidth=13.715880893300247;fillColor=#ffcccc;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="274.8" y="1023" as="sourcePoint" />
+            <mxPoint x="274.8" y="993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-220" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=5.961538461538462;endSize=2.4370967741935483;startWidth=14.418081918081919;startSize=3.085064935064935;endWidth=13.715880893300247;fillColor=#ffcccc;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="274.8" y="1067" as="sourcePoint" />
+            <mxPoint x="274.8" y="1037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-222" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=5.961538461538462;endSize=2.4370967741935483;startWidth=14.418081918081919;startSize=3.085064935064935;endWidth=13.715880893300247;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="454.3" y="1024" as="sourcePoint" />
+            <mxPoint x="454.3" y="994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-223" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=5.961538461538462;endSize=2.4370967741935483;startWidth=14.418081918081919;startSize=3.085064935064935;endWidth=13.715880893300247;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="642.6" y="1024" as="sourcePoint" />
+            <mxPoint x="642.6" y="994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-313" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.5;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="374.63" y="1324.88" width="20" height="208.25" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-314" value="MCU数量" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="322.88" y="1389" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-315" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.5;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="261.75" y="1397.25" width="20" height="163.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-316" value="MCU1" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="213" y="1440" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-319" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;...&lt;/font&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-320" value="注射泵&lt;div&gt;数量&lt;/div&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="194.75" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-330" value="&lt;span style=&quot;background-color: initial;&quot;&gt;切换阀数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="277.75" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-331" value="&lt;span style=&quot;background-color: initial;&quot;&gt;压力传感器数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="304.75" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-332" value="&lt;span style=&quot;background-color: initial;&quot;&gt;温控数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="332.75" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-333" value="注射泵&lt;div&gt;数量&lt;/div&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="222.75" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-334" value="&lt;span style=&quot;background-color: initial;&quot;&gt;切换阀数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="249.75" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-344" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0.5;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="477" y="1397.25" width="20" height="163.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-345" value="MCUn" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="428.25" y="1440" width="123.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-346" value="注射泵&lt;div&gt;数量&lt;/div&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-347" value="&lt;span style=&quot;background-color: initial;&quot;&gt;切换阀数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-348" value="&lt;span style=&quot;background-color: initial;&quot;&gt;压力传感器数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-349" value="&lt;span style=&quot;background-color: initial;&quot;&gt;温控数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="548" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-350" value="注射泵&lt;div&gt;数量&lt;/div&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1489" width="16" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0p-viZYFRMLe7LPgVE24-351" value="&lt;span style=&quot;background-color: initial;&quot;&gt;切换阀数量&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1489" width="16" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
