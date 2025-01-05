@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" version="26.0.3">
   <diagram name="第 1 页" id="HSNrIdLrmf_gZzXV-6NT">
-    <mxGraphModel dx="555" dy="339" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="931" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1220,19 +1220,95 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XcWm4m37XzwQj9BWcYYa-67" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2777" y="391" width="120" height="35" as="geometry" />
+          <mxGeometry x="2674.5" y="391" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="XcWm4m37XzwQj9BWcYYa-69" value="提取TASKID" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2752.5" y="453" width="169" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="XcWm4m37XzwQj9BWcYYa-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="XcWm4m37XzwQj9BWcYYa-80" target="XcWm4m37XzwQj9BWcYYa-81" parent="1">
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcWm4m37XzwQj9BWcYYa-69" target="XcWm4m37XzwQj9BWcYYa-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XcWm4m37XzwQj9BWcYYa-80" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3004" y="390" width="120" height="35" as="geometry" />
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-69" value="提取TASKID和&lt;div&gt;PREID&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="453" width="169" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="XcWm4m37XzwQj9BWcYYa-81" value="从taskdone队列&lt;div&gt;取&lt;span style=&quot;background-color: transparent;&quot;&gt;出TASKID&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2975" y="453" width="178" height="54" as="geometry" />
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcWm4m37XzwQj9BWcYYa-84" target="XcWm4m37XzwQj9BWcYYa-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-88" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XcWm4m37XzwQj9BWcYYa-87">
+          <mxGeometry x="-0.2121" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcWm4m37XzwQj9BWcYYa-84" target="XcWm4m37XzwQj9BWcYYa-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-91" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XcWm4m37XzwQj9BWcYYa-90">
+          <mxGeometry x="0.456" relative="1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-84" value="PREID任务&lt;div&gt;是否结束&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="536" width="169" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcWm4m37XzwQj9BWcYYa-86" target="XcWm4m37XzwQj9BWcYYa-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-86" value="执行TASKID任务" style="whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2650.5" y="673" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-89" value="将TASKID任务加入PREID哈希表队列" style="whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2858.5" y="673" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XcWm4m37XzwQj9BWcYYa-92" target="XcWm4m37XzwQj9BWcYYa-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2880.5" y="843.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-92" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2675.5" y="783" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="XcWm4m37XzwQj9BWcYYa-98" target="XcWm4m37XzwQj9BWcYYa-100" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-98" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3121.5" y="391" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="XcWm4m37XzwQj9BWcYYa-100" target="XcWm4m37XzwQj9BWcYYa-105" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-100" value="提取TASKID" style="whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3097" y="453" width="169" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="XcWm4m37XzwQj9BWcYYa-105" target="XcWm4m37XzwQj9BWcYYa-107" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-102" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XcWm4m37XzwQj9BWcYYa-101">
+          <mxGeometry x="-0.2121" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="XcWm4m37XzwQj9BWcYYa-105" target="XcWm4m37XzwQj9BWcYYa-108" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-105" value="TASKID对应&lt;div&gt;哈希表队列是否为空&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3055" y="536" width="254" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="XcWm4m37XzwQj9BWcYYa-107" target="XcWm4m37XzwQj9BWcYYa-110" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-107" value="执行TASKID任务" style="whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3097.5" y="688.13" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XcWm4m37XzwQj9BWcYYa-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3243" y="801" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3413" y="801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-108" value="将TASKID任务加入PREID哈希表队列" style="whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3323" y="688.13" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcWm4m37XzwQj9BWcYYa-110" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3122" y="784" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
