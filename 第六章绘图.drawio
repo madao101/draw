@@ -130,9 +130,6 @@
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-44" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-480" y="1100" width="220.83" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0nwvGlXKgpNKtvV_KcSy-49" value="&lt;font&gt;USB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1113" width="90" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-59" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.74;dx=18.33;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-718" y="1273.76" width="377.51" height="30" as="geometry" />
         </mxCell>
