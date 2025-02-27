@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="4lezpPqJ403xujPUZDA0">
-    <mxGraphModel dx="1995" dy="401" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1531" dy="237" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1483,8 +1483,8 @@
         <mxCell id="DI4FCeXwV8KSVO1PWH4R-455" value="$$V$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-378" y="2003" width="24" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DI4FCeXwV8KSVO1PWH4R-456" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_3;strokeWidth=2;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="2011.5" width="52" height="8" as="geometry" />
+        <mxCell id="DI4FCeXwV8KSVO1PWH4R-456" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_3;strokeWidth=2;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-342" y="1993" width="52" height="8" as="geometry" />
         </mxCell>
         <mxCell id="DI4FCeXwV8KSVO1PWH4R-457" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1593,6 +1593,9 @@
         </mxCell>
         <mxCell id="DI4FCeXwV8KSVO1PWH4R-488" value="$$I_{L}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-517" y="2218" width="24" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pOxlD6HRU_fFFgfm3ky4-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_3;strokeWidth=2;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="2031" width="52" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
