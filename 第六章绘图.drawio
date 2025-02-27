@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="YaW6Qq6nIcFwjMoLfpzU">
-    <mxGraphModel dx="2226" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,35 +265,41 @@
         <mxCell id="jRYTcA7w8AWBwjKHWGQt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRYTcA7w8AWBwjKHWGQt-4" target="jRYTcA7w8AWBwjKHWGQt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRYTcA7w8AWBwjKHWGQt-4" value="上电初始化" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-4" value="检查环境" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="315" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRYTcA7w8AWBwjKHWGQt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRYTcA7w8AWBwjKHWGQt-6" target="jRYTcA7w8AWBwjKHWGQt-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRYTcA7w8AWBwjKHWGQt-6" value="配置校验方式" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-6" value="表结构定义" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="360" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRYTcA7w8AWBwjKHWGQt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRYTcA7w8AWBwjKHWGQt-8" target="jRYTcA7w8AWBwjKHWGQt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRYTcA7w8AWBwjKHWGQt-8" value="配置设备数量" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-8" value="基本功能验证" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="406" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRYTcA7w8AWBwjKHWGQt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRYTcA7w8AWBwjKHWGQt-10" target="jRYTcA7w8AWBwjKHWGQt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRYTcA7w8AWBwjKHWGQt-10" value="配置设备ID" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-10" value="压力测试" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="453" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jRYTcA7w8AWBwjKHWGQt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRYTcA7w8AWBwjKHWGQt-12" target="jRYTcA7w8AWBwjKHWGQt-13">
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRYTcA7w8AWBwjKHWGQt-12" target="jRYTcA7w8AWBwjKHWGQt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRYTcA7w8AWBwjKHWGQt-12" value="配置完成" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-12" value="结果验证" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="501" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRYTcA7w8AWBwjKHWGQt-13" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="545" width="100" height="35" as="geometry" />
+          <mxGeometry x="-35" y="597" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRYTcA7w8AWBwjKHWGQt-14" target="jRYTcA7w8AWBwjKHWGQt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRYTcA7w8AWBwjKHWGQt-14" value="清理环境" style="whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="551" width="130" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
