@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="YaW6Qq6nIcFwjMoLfpzU">
-    <mxGraphModel dx="1866" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,11 +217,11 @@
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-114" value="MCU2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="-749" y="831" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0nwvGlXKgpNKtvV_KcSy-115" value="FDCAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-741" y="873" width="89.17" height="30" as="geometry" />
+        <mxCell id="0nwvGlXKgpNKtvV_KcSy-115" value="CAN FD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-741" y="873" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0nwvGlXKgpNKtvV_KcSy-116" value="FDCAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-741" y="772" width="89.17" height="30" as="geometry" />
+        <mxCell id="0nwvGlXKgpNKtvV_KcSy-116" value="CAN FD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-741" y="772" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-117" value="MCU1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="-749" y="730" width="100" height="40" as="geometry" />
@@ -232,8 +232,8 @@
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-119" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;USB&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-623" y="773" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0nwvGlXKgpNKtvV_KcSy-120" value="FDCAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-741" y="962" width="89.17" height="30" as="geometry" />
+        <mxCell id="0nwvGlXKgpNKtvV_KcSy-120" value="CAN FD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-741" y="962" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-121" value="MCU3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="-749" y="920" width="100" height="40" as="geometry" />
@@ -247,8 +247,8 @@
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-124" value="MCU3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="-749" y="1020" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0nwvGlXKgpNKtvV_KcSy-125" value="FDCAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-741" y="1062" width="89.17" height="30" as="geometry" />
+        <mxCell id="0nwvGlXKgpNKtvV_KcSy-125" value="CAN FD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-741" y="1062" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0nwvGlXKgpNKtvV_KcSy-126" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;PWM2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-623" y="1063" width="90" height="30" as="geometry" />
